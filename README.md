@@ -40,5 +40,3 @@ In this little game, you can join friends in a shared lobby, and fight each othe
 
  - Scoreboard
 
-## How to install
-
